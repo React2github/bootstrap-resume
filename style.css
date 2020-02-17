@@ -1,0 +1,130 @@
+body {
+margin: 0%;
+}
+
+.hero {
+background-color: khaki;
+padding-bottom: 200px;
+background-image: url("images/hero.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+nav {
+display: flex;
+justify-content: flex-end;
+margin-right: 50px;
+}
+
+nav img {
+padding-right: 10px;
+}
+
+nav li {
+display: inline;
+padding-right: 10px;
+}
+
+nav a {
+ text-decoration: none;
+ color: white;
+}
+
+.container {
+background-color: seashell;
+}
+
+.title h1 {
+margin-top: 0;
+padding-top: 20px;
+display: flex;
+justify-content: center;
+}
+
+
+.info {
+    display: flex;
+    justify-content: center;
+}
+
+.info img {
+padding-right: 100px;
+padding-bottom: 20px;
+}
+
+.info p {
+    display: flex;
+    align-items: center;
+}
+
+.projects {
+background-color: mintcream;
+}
+
+.card-group {
+display: flex;
+justify-content: center;
+}
+
+.title2 {
+display: flex;
+justify-content: center;
+}
+
+.card1 {
+display: inline-block;
+background-color: thistle;
+padding-left: 10px;
+padding-bottom: 10px;
+}
+
+.card2 {
+display: inline-block;
+background-color: yellow ;
+padding-left: 10px;
+padding-bottom: 10px;
+}
+
+.card3 {
+display: inline-block;
+background-color: wheat;
+padding-left: 10px;
+padding-bottom: 10px;
+}
+
+.card1 a, .card2 a, .card3 a {
+color: blue;
+}
+
+.container3 {
+background-color: mistyrose;
+padding-bottom: 100px;
+}
+
+.Contact form {
+margin-top: 50px;
+display: flex;
+justify-content: center;
+}
+
+.bottomnav {
+background-color: black;
+}
+
+.bottomnav2 {
+    display: flex;
+    justify-content: center;
+    }
+    
+    
+    nav li {
+    display: inline;
+    padding-right: 10px;
+    }
+    
+    nav a {
+     text-decoration: none;
+     color: white;
+    }   
+}
